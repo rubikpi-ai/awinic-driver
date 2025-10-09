@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-2.0
+
 #ifndef __LEDS_AW20072_REG_H__
 #define __LEDS_AW20072_REG_H__
 

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-2.0
+
 #ifndef __AW20072_H__
 #define __AW20072_H__
 
