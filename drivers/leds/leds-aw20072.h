@@ -1,3 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
+/*
+ * Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
+ */
+
 #ifndef __AW20072_H__
 #define __AW20072_H__
 
