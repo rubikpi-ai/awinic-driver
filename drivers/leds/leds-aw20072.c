@@ -1,3 +1,5 @@
+/* SPDX-license-Identifier: GPL-2.0-only */
+
 /*
  * leds-aw20072.c   aw20072 led module
  *
