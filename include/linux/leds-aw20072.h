@@ -1,3 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
+/*
+ * Copyright (c) AWINIC Technologies, CO., LTD. and/or its subsidiaries.
+ */
+
 #ifndef __AW20072_H__
 #define __AW20072_H__
 

@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (c) AWINIC Technologies, CO., LTD. and/or its subsidiaries.
+ */
+
 /*
  * leds-aw20072.c   aw20072 led module
  *
